@@ -2,4 +2,4 @@
 C.P. Training WebGL Version
 
 ## Play Url
-- [PlayUrl](https://gondnetom.github.io/CPTrainingWebGL/)
+- [Play Url](https://gondnetom.github.io/CPTrainingWebGL/)
