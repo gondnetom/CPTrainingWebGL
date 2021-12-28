@@ -1,5 +1,6 @@
 # C.P. Training WebGL
 Choose Penalty Training.
+https://www.youtube.com/watch?v=-bWZaTagb8E&t=4s
 
 Play C.P. Training WebGL Version. [Play URL](https://gondnetom.github.io/CPTrainingWebGL/)
 
