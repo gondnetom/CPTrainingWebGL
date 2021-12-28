@@ -16,5 +16,5 @@ Level 1 is set as one map, a player who cannot grow.
 
  The intention was to raise the difficulty level without touching the variable called the jump map, so it was a game that made you feel a little disconnected, but it may have been conveyed well.
 
-### Author
+## Author
 Mortem4
